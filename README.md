@@ -189,23 +189,3 @@ Ces indicateurs peuvent être exploités par :
 
 **Maureen DOMCHE**
 Data Analyst | SQL | Power BI | Microsoft Fabric
-
----
-
-## 🚀 Pourquoi ce projet est pertinent ?
-
-* Cas métier réaliste
-* SQL avancé et structuré
-* Démarche analytique claire
-* Génération d’insights actionnables
-* Projet directement exploitable en entreprise
-
----
-
-Si tu veux, je peux aussi te proposer :
-
-* ✅ Une version plus “GitHub premium” orientée recrutement
-* ✅ Une version en anglais
-* ✅ Une structure de repository (dossiers + organisation des requêtes SQL)
-* ✅ Un README optimisé pour attirer les recruteurs Data
-
