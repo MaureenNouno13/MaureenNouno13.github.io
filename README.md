@@ -1,6 +1,3 @@
-Voici ton fichier **README.md** structuré et prêt à être utilisé sur GitHub :
-
----
 
 # 📊 Projet RH Analytics – SQL (PostgreSQL)
 
